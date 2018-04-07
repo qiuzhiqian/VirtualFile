@@ -1,0 +1,3 @@
+/home/xml/share/utils/test/queue/build/CMakeFiles/rebuild_cache.dir
+/home/xml/share/utils/test/queue/build/CMakeFiles/qtest.dir
+/home/xml/share/utils/test/queue/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/qtest.dir/main.o  -o qtest  -L/home/xml/share/utils/test/queue/../../Queue/build -Wl,-rpath,/home/xml/share/utils/test/queue/../../Queue/build -lqueue 

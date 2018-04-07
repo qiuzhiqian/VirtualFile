@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../Queue/Queue.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+../define.h
+../../../define.h
+
+../../../define.h
+
+/home/xml/share/utils/test/queue/main.c
+Queue.h
+/home/xml/share/utils/test/queue/Queue.h
+
